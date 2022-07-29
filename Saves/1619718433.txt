@@ -1,0 +1,98 @@
+T::0:4;0:2;0:3;0:3;0:3;1:2;1:2;0:2;1:4;1:5;1:3;1:3;1:4;0:1;1:3;0:3;1:4;0:4;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:5;1:2;1:2;1:2;1:2;0:4;0:2;0:2;0:3;0:4;0:2
+R::0,Orbán V. Iktor
+S::Orbán V. Iktor: fields: 18, dices: 54;Okos játékos: fields: 18, dices: 54;
+R::0,Okos játékos
+T::0:6;0:4;0:3;0:3;0:3;1:1;1:2;0:2;1:4;1:5;1:3;1:3;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 63;Okos játékos: fields: 18, dices: 53;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F1->E1;a támadó dobásai: [0, 0] = 0, a védő dobásai: [6, 4, 1] = 11, a támadás sikertelen volt.
+T::0:6;0:4;0:3;0:3;0:3;1:1;1:1;1:1;1:4;1:5;1:3;1:3;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 61;Okos játékos: fields: 18, dices: 53;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;A2->B2;a támadó dobásai: [6, 5] = 11, a védő dobásai: [2, 6] = 8, a támadás sikeres volt.
+T::0:6;0:4;1:3;0:3;0:3;1:1;1:1;1:1;1:1;1:5;1:3;1:3;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 58;Okos játékos: fields: 18, dices: 53;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C2->C1;a támadó dobásai: [5, 0, 0, 6] = 11, a védő dobásai: [4, 0, 3] = 7, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:3;1:3;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 55;Okos játékos: fields: 18, dices: 53;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;D2->D1;a támadó dobásai: [3, 2, 0, 5, 6] = 16, a védő dobásai: [5, 3, 4] = 12, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 55;Okos játékos: fields: 18, dices: 51;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;E2->E1;a támadó dobásai: [0, 0, 1] = 1, a védő dobásai: [5, 5, 2] = 12, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:4;0:1;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 55;Okos játékos: fields: 18, dices: 49;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F2->F3;a támadó dobásai: [0, 2, 0] = 2, a védő dobásai: [6, 5, 6, 6, 5] = 28, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:3;0:4;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 54;Okos játékos: fields: 18, dices: 49;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;A3->B3;a támadó dobásai: [6, 0, 2, 3] = 11, a védő dobásai: [3] = 3, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:4;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 50;Okos játékos: fields: 18, dices: 49;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C3->D3;a támadó dobásai: [0, 6, 6] = 12, a védő dobásai: [1, 2, 2, 5] = 10, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;0:4;1:5;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 50;Okos játékos: fields: 18, dices: 46;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;E3->F3;a támadó dobásai: [1, 0, 4, 0] = 5, a védő dobásai: [6, 0, 1, 3, 1] = 11, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:3;0:3;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 46;Okos játékos: fields: 18, dices: 46;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;B4->A4;a támadó dobásai: [3, 0, 1, 6, 4] = 14, a védő dobásai: [0, 3, 4, 0] = 7, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:3;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 43;Okos játékos: fields: 18, dices: 46;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C4->D4;a támadó dobásai: [6, 6, 6] = 18, a védő dobásai: [0, 3, 5] = 8, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:2;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 43;Okos játékos: fields: 18, dices: 44;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F4->F3;a támadó dobásai: [2, 0, 4] = 6, a védő dobásai: [3, 3, 5, 6, 2] = 19, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:1;0:6;1:2;1:2;1:2;1:2;0:4;0:3;0:2;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 43;Okos játékos: fields: 18, dices: 43;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;A5->A6;a támadó dobásai: [0, 5] = 5, a védő dobásai: [4, 0, 5, 5] = 14, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:1;0:6;1:1;1:2;1:2;1:2;0:4;0:3;1:1;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 41;Okos játékos: fields: 18, dices: 43;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C5->C6;a támadó dobásai: [3, 4] = 7, a védő dobásai: [1, 5] = 6, a támadás sikeres volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:1;0:6;1:1;1:1;1:2;1:2;0:4;0:3;1:1;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 41;Okos játékos: fields: 18, dices: 42;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;D5->D6;a támadó dobásai: [2, 5] = 7, a védő dobásai: [2, 5, 6, 6] = 19, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:1;0:6;1:1;1:1;1:1;1:2;0:4;0:3;1:1;0:4;0:4;0:2
+S::Orbán V. Iktor: fields: 18, dices: 41;Okos játékos: fields: 18, dices: 41;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;E5->E6;a támadó dobásai: [0, 0] = 0, a védő dobásai: [1, 4, 2, 1] = 8, a támadás sikertelen volt.
+T::0:6;0:4;1:3;1:4;0:3;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:1;1:3;1:1;1:2;1:1;0:5;1:4;1:1;1:1;1:2;1:3;1:1;1:1;0:6;1:1;1:1;1:1;1:1;0:4;0:3;1:1;0:4;0:4;1:1
+S::Orbán V. Iktor: fields: 18, dices: 39;Okos játékos: fields: 18, dices: 41;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F5->F6;a támadó dobásai: [6, 4] = 10, a védő dobásai: [0, 6] = 6, a támadás sikeres volt.
+R::1,Orbán V. Iktor
+S::Orbán V. Iktor: fields: 18, dices: 39;Okos játékos: fields: 27, dices: 216;
+R::1,Okos játékos
+T::0:8;0:5;1:8;1:8;1:7;1:1;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;0:4;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 43;Okos játékos: fields: 27, dices: 216;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F1->E1;a támadó dobásai: [2, 5, 3, 5, 4, 5, 1, 1] = 26, a védő dobásai: [3, 4, 1, 0, 4] = 12, a támadás sikeres volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;0:4;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 35;Okos játékos: fields: 27, dices: 216;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;A2->A1;a támadó dobásai: [3, 0, 4, 3, 6, 1, 2, 5] = 24, a védő dobásai: [4, 0, 0, 0, 1, 3, 4, 4] = 16, a támadás sikeres volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:8;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;0:4;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 28;Okos játékos: fields: 27, dices: 216;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;F2->F3;a támadó dobásai: [5, 0, 2, 0, 3, 4, 2, 6] = 22, a védő dobásai: [0, 3, 0, 2, 4, 3, 5] = 17, a támadás sikeres volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:8;0:7;1:8;1:8;1:8;1:8;0:4;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 28;Okos játékos: fields: 27, dices: 209;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;B4->B5;a támadó dobásai: [3, 1, 0, 0, 4, 3, 4, 3] = 18, a védő dobásai: [3, 4, 1, 6, 4, 4, 0] = 22, a támadás sikertelen volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:8;1:8;1:8;1:8;1:7;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 24;Okos játékos: fields: 27, dices: 209;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;A5->A6;a támadó dobásai: [0, 0, 2, 4, 4, 3, 5, 0] = 18, a védő dobásai: [0, 0, 2, 6] = 8, a támadás sikeres volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:1;1:8;1:8;1:8;1:7;0:4;1:8;0:4;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 24;Okos játékos: fields: 27, dices: 202;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C5->B5;a támadó dobásai: [5, 3, 4, 2, 1, 1, 0, 1] = 17, a védő dobásai: [0, 2, 2, 5, 3, 6, 4] = 22, a támadás sikertelen volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:1;1:1;1:8;1:8;1:7;0:4;1:8;1:7;0:4;1:8
+S::Orbán V. Iktor: fields: 9, dices: 20;Okos játékos: fields: 27, dices: 202;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;D5->D6;a támadó dobásai: [4, 4, 6, 1, 0, 4, 6, 1] = 26, a védő dobásai: [2, 0, 3, 3] = 8, a támadás sikeres volt.
+T::1:7;0:5;1:8;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:1;1:1;1:1;1:8;1:7;0:4;1:8;1:7;1:7;1:8
+S::Orbán V. Iktor: fields: 9, dices: 16;Okos játékos: fields: 27, dices: 202;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;E5->E6;a támadó dobásai: [1, 1, 3, 5, 2, 3, 5, 5] = 25, a védő dobásai: [5, 0, 4, 2] = 11, a támadás sikeres volt.
+T::1:7;1:7;1:1;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:1;1:1;1:1;1:8;1:7;0:4;1:8;1:7;1:7;1:8
+S::Orbán V. Iktor: fields: 9, dices: 11;Okos játékos: fields: 27, dices: 202;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C1->B1;a támadó dobásai: [5, 4, 3, 6, 1, 2, 1, 2] = 24, a védő dobásai: [6, 3, 1, 6, 5] = 21, a támadás sikeres volt.
+T::1:7;1:7;1:1;1:8;1:7;1:1;1:1;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:1;1:8;1:8;1:8;1:8;1:1;0:7;1:1;1:1;1:1;1:8;1:7;1:7;1:1;1:7;1:7;1:8
+S::Orbán V. Iktor: fields: 9, dices: 7;Okos játékos: fields: 27, dices: 202;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;C6->B6;a támadó dobásai: [6, 3, 6, 1, 6, 3, 0, 6] = 31, a védő dobásai: [0, 4, 0, 1] = 5, a támadás sikeres volt.
+R::2,Orbán V. Iktor
+S::Orbán V. Iktor: fields: 9, dices: 7;Okos játékos: fields: 35, dices: 274;
+R::2,Okos játékos
+T::1:8;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:8;1:8;1:8;1:5;1:8;1:8;1:8;1:8;1:8;1:8;1:8;1:1;1:8;1:8;1:8;1:8;1:8;1:7;1:8;1:8;1:8;1:8;1:8;1:8;1:6;1:8;1:8;1:8
+S::Orbán V. Iktor: fields: 1, dices: 0;Okos játékos: fields: 35, dices: 274;
+A::Okos játékos támadást indított Orbán V. Iktor ellen;B4->B5;a támadó dobásai: [2, 3, 6, 3, 3, 3, 2, 2] = 24, a védő dobásai: [5, 1, 2, 4, 2, 4, 3] = 21, a támadás sikeres volt.
+R::3,Orbán V. Iktor
+S::Orbán V. Iktor: fields: 1, dices: 0;Okos játékos: fields: 36, dices: 279;
+R::3,Okos játékos
+A győztes: Okos játékos

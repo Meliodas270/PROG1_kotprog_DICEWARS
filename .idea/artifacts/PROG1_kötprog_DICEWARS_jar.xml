@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PROG1_kötprog_DICEWARS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROG1_kötprog_DICEWARS_jar</output-path>
+    <root id="archive" name="PROG1_kötprog_DICEWARS.jar">
+      <element id="module-output" name="PROG1_kötprog_DICEWARS" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,114 @@
+T::P7;G1;G3;G2;G5;P5;G6;G5;G1;G1;P4;P4;P1;P1;P1;P1
+R::1,Player
+S::Player: fields: 8, dices: 24;Green (M): fields: 8, dices: 24
+R::2,Green (M)
+S::Player: fields: 8, dices: 28;Green (M): fields: 8, dices: 24
+A::C2>C3;Tamado dobasai: 5 1 5 4 4 1, osszeg: 20 || Vedekezo dobasok: 3 3 4 1 5, osszeg: 16;Tamado nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G5;G1;G1;G5;P4;P2;P1;P1;P1
+S::Player: fields: 7, dices: 23;Green (M): fields: 9, dices: 24
+A::D2>D3;Tamado dobasai: 5 1 6 6 3, osszeg: 21 || Vedekezo dobasok: 6 4 1 1, osszeg: 12;Tamado nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G1;G1;G1;G5;G4;P2;P1;P1;P1
+S::Player: fields: 6, dices: 19;Green (M): fields: 10, dices: 24
+A::C3>C4;Tamado dobasai: 1 4 5 3 5, osszeg: 18 || Vedekezo dobasok: 6, osszeg: 6;Tamado nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G1;G1;G1;G1;G4;P2;P1;G4;P1
+S::Player: fields: 5, dices: 18;Green (M): fields: 11, dices: 24
+A::D3>D4;Tamado dobasai: 4 3 3 2, osszeg: 12 || Vedekezo dobasok: 2, osszeg: 2;Tamado nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G1;G1;G1;G1;G1;P2;P1;G4;G3
+S::Player: fields: 4, dices: 17;Green (M): fields: 12, dices: 24
+A::C4>B4;Tamado dobasai: 5 1 1 4, osszeg: 11 || Vedekezo dobasok: 3, osszeg: 3;Tamado nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G1;G1;G1;G1;G1;P2;G3;G1;G3
+S::Player: fields: 3, dices: 16;Green (M): fields: 13, dices: 24
+A::B4>A4;Tamado dobasai: 3 2 3, osszeg: 8 || Vedekezo dobasok: 6 5, osszeg: 11;Vedekezo nyert!
+T::P8;G1;G3;G2;G5;P6;G1;G1;G1;G1;G1;G1;P2;G1;G1;G3
+S::Player: fields: 3, dices: 16;Green (M): fields: 13, dices: 22
+R::3,Player
+S::Player: fields: 3, dices: 16;Green (M): fields: 13, dices: 28
+R::4,Green (M)
+S::Player: fields: 3, dices: 17;Green (M): fields: 13, dices: 28
+R::5,Player
+S::Player: fields: 3, dices: 17;Green (M): fields: 13, dices: 34
+R::6,Green (M)
+S::Player: fields: 3, dices: 18;Green (M): fields: 13, dices: 34
+R::7,Player
+S::Player: fields: 3, dices: 18;Green (M): fields: 13, dices: 40
+R::8,Green (M)
+S::Player: fields: 3, dices: 19;Green (M): fields: 13, dices: 40
+R::9,Player
+S::Player: fields: 3, dices: 19;Green (M): fields: 13, dices: 46
+R::10,Green (M)
+S::Player: fields: 3, dices: 20;Green (M): fields: 13, dices: 46
+R::11,Player
+S::Player: fields: 3, dices: 20;Green (M): fields: 13, dices: 52
+R::12,Green (M)
+S::Player: fields: 3, dices: 21;Green (M): fields: 13, dices: 52
+A::A2>A1;Tamado dobasai: 2 5 2 2 6 4 6 4, osszeg: 31 || Vedekezo dobasok: 5 5 2 5 2 3 1 4, osszeg: 27;Tamado nyert!
+T::G7;G3;G6;G7;G1;P8;G5;G5;G2;G4;G2;G2;P5;G2;G3;G3
+S::Player: fields: 2, dices: 13;Green (M): fields: 14, dices: 52
+R::13,Player
+S::Player: fields: 2, dices: 13;Green (M): fields: 14, dices: 59
+R::14,Green (M)
+S::Player: fields: 2, dices: 14;Green (M): fields: 14, dices: 59
+R::15,Player
+S::Player: fields: 2, dices: 14;Green (M): fields: 14, dices: 66
+R::16,Green (M)
+S::Player: fields: 2, dices: 15;Green (M): fields: 14, dices: 66
+R::17,Player
+S::Player: fields: 2, dices: 15;Green (M): fields: 14, dices: 73
+R::18,Green (M)
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 73
+R::19,Player
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 80
+R::20,Green (M)
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 80
+A::B3>B2;Tamado dobasai: 6 3 4 5 3 1 2 1, osszeg: 25 || Vedekezo dobasok: 1 3 6 5 3 4 3 5, osszeg: 30;Vedekezo nyert!
+T::G8;G5;G8;G8;G3;P8;G6;G7;G4;G1;G4;G5;P8;G4;G5;G5
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 73
+R::21,Player
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 80
+R::22,Green (M)
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 80
+R::23,Player
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 87
+R::24,Green (M)
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 87
+R::25,Player
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 94
+R::26,Green (M)
+S::Player: fields: 2, dices: 16;Green (M): fields: 14, dices: 94
+A::C2>B2;Tamado dobasai: 1 4 6 6 5 3 2 5, osszeg: 32 || Vedekezo dobasok: 3 4 6 5 1 4 3 4, osszeg: 30;Tamado nyert!
+T::G8;G7;G8;G8;G6;G7;G1;G8;G6;G4;G7;G6;P8;G5;G7;G6
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 94
+R::27,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 101
+R::28,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 101
+R::29,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+R::30,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+A::A3>A4;Tamado dobasai: 4 1 4 4 3 2 4 6, osszeg: 28 || Vedekezo dobasok: 1 6 6 6 4 5 4 1, osszeg: 33;Vedekezo nyert!
+T::G8;G8;G8;G8;G8;G8;G3;G8;G1;G4;G7;G8;P8;G7;G8;G7
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 101
+R::31,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+R::32,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+A::B4>A4;Tamado dobasai: 6 3 1 6 4 6 5 2, osszeg: 33 || Vedekezo dobasok: 6 6 4 6 1 4 5 4, osszeg: 36;Vedekezo nyert!
+T::G8;G8;G8;G8;G8;G8;G4;G8;G1;G8;G8;G8;P8;G1;G8;G7
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 101
+R::33,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+R::34,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 108
+R::35,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 115
+R::36,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 115
+R::37,Player
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 120
+R::38,Green (M)
+S::Player: fields: 1, dices: 8;Green (M): fields: 15, dices: 120
+A::A3>A4;Tamado dobasai: 4 6 5 4 2 1 3 6, osszeg: 31 || Vedekezo dobasok: 1 3 2 6 3 1 5 4, osszeg: 25;Tamado nyert!
+T::G8;G8;G8;G8;G8;G8;G8;G8;G1;G8;G8;G8;G7;G8;G8;G8
+S::Player kiesett!;Green (M): fields: 16, dices: 120
+A nyertes: Green (M)

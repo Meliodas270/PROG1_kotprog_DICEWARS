@@ -1,0 +1,95 @@
+T::05;14;03;03;02;01;04;02;13;15;12;14;13;02;06;02;04;04;14;12;13;03;03;14;12;03;02;14;03;12;02;12;12;13;12;13
+R::0,Cic Imre
+S::Cic Imre: fields: 18, dices: 54;Okos játékos: fields: 18, dices: 54
+R::0,Okos játékos
+T::06;11;04;04;02;01;04;13;13;15;12;14;13;03;06;02;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 60;Okos játékos: fields: 18, dices: 54
+A::Okos játékos támadást indított Cic Imre ellen;B1->B2;a támadó dobásai: [5, 3, 2, 3] = 13, a védő dobásai: [0, 0, 0] = 0, a támadás sikeres volt.
+T::06;11;04;04;02;01;04;13;11;15;12;14;13;03;06;02;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 60;Okos játékos: fields: 18, dices: 52
+A::Okos játékos támadást indított Cic Imre ellen;C2->C1;a támadó dobásai: [4, 0, 5] = 9, a védő dobásai: [4, 3, 6, 2] = 15, a támadás sikertelen volt.
+T::06;11;04;04;02;01;04;13;11;11;12;14;13;03;06;14;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 58;Okos játékos: fields: 18, dices: 52
+A::Okos játékos támadást indított Cic Imre ellen;D2->D3;a támadó dobásai: [3, 0, 0, 4, 5] = 12, a védő dobásai: [2, 2] = 4, a támadás sikeres volt.
+T::06;11;04;04;02;01;04;13;11;11;11;14;13;03;06;14;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 58;Okos játékos: fields: 18, dices: 51
+A::Okos játékos támadást indított Cic Imre ellen;E2->E1;a támadó dobásai: [4, 1] = 5, a védő dobásai: [2, 5] = 7, a támadás sikertelen volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;13;03;06;14;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 57;Okos játékos: fields: 18, dices: 51
+A::Okos játékos támadást indított Cic Imre ellen;F2->F1;a támadó dobásai: [4, 1, 3, 4] = 12, a védő dobásai: [4] = 4, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;12;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 54;Okos játékos: fields: 18, dices: 51
+A::Okos játékos támadást indított Cic Imre ellen;A3->B3;a támadó dobásai: [4, 1, 4] = 9, a védő dobásai: [2, 3, 3] = 8, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;13;04;04;14;12;03;02;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 54;Okos játékos: fields: 18, dices: 50
+A::Okos játékos támadást indított Cic Imre ellen;B4->B5;a támadó dobásai: [1, 1] = 2, a védő dobásai: [6, 2, 5] = 13, a támadás sikertelen volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;11;04;04;14;12;03;12;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 52;Okos játékos: fields: 18, dices: 50
+A::Okos játékos támadást indított Cic Imre ellen;C4->C5;a támadó dobásai: [0, 5, 5] = 10, a védő dobásai: [5, 1] = 6, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;11;04;13;11;12;03;12;14;03;12;02;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 48;Okos játékos: fields: 18, dices: 50
+A::Okos játékos támadást indított Cic Imre ellen;F4->E4;a támadó dobásai: [2, 4, 4, 3] = 13, a védő dobásai: [5, 6, 0, 1] = 12, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;11;04;13;11;11;03;12;14;03;12;11;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 46;Okos játékos: fields: 18, dices: 50
+A::Okos játékos támadást indított Cic Imre ellen;A5->A6;a támadó dobásai: [1, 4] = 5, a védő dobásai: [1, 2] = 3, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;11;04;13;11;11;03;12;11;13;12;11;12;12;13;12;13
+S::Cic Imre: fields: 18, dices: 43;Okos játékos: fields: 18, dices: 50
+A::Okos játékos támadást indított Cic Imre ellen;D5->E5;a támadó dobásai: [3, 2, 1, 2] = 8, a védő dobásai: [2, 1, 1] = 4, a támadás sikeres volt.
+T::06;11;04;04;02;13;04;13;11;11;11;11;11;12;06;14;05;05;14;11;11;04;13;11;11;03;12;11;13;12;11;11;12;13;12;13
+S::Cic Imre: fields: 18, dices: 43;Okos játékos: fields: 18, dices: 49
+A::Okos játékos támadást indított Cic Imre ellen;B6->B5;a támadó dobásai: [6, 1] = 7, a védő dobásai: [2, 2, 5] = 9, a támadás sikertelen volt.
+R::1,Cic Imre
+S::Cic Imre: fields: 18, dices: 43;Okos játékos: fields: 26, dices: 206
+R::1,Okos játékos
+T::08;11;16;05;03;18;06;18;18;18;18;18;18;18;07;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 48;Okos játékos: fields: 26, dices: 206
+A::Okos játékos támadást indított Cic Imre ellen;B1->C1;a támadó dobásai: [3, 4, 0, 2, 5, 5, 3] = 22, a védő dobásai: [0, 1, 0, 2] = 3, a támadás sikeres volt.
+T::08;11;16;05;03;18;06;18;11;18;18;18;18;18;17;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 41;Okos játékos: fields: 26, dices: 206
+A::Okos játékos támadást indított Cic Imre ellen;C2->C3;a támadó dobásai: [5, 0, 5, 6, 3, 5, 0, 0] = 24, a védő dobásai: [2, 4, 6, 6, 1, 3, 0] = 22, a támadás sikeres volt.
+T::08;11;16;17;03;18;06;18;11;11;18;18;18;18;17;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 36;Okos játékos: fields: 26, dices: 206
+A::Okos játékos támadást indított Cic Imre ellen;D2->D1;a támadó dobásai: [4, 6, 5, 5, 4, 6, 6, 5] = 41, a védő dobásai: [2, 1, 0, 6, 6] = 15, a támadás sikeres volt.
+T::08;11;16;17;17;18;06;18;11;11;11;18;18;18;17;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 33;Okos játékos: fields: 26, dices: 206
+A::Okos játékos támadást indított Cic Imre ellen;E2->E1;a támadó dobásai: [3, 5, 6, 2, 6, 1, 4, 6] = 33, a védő dobásai: [3, 3, 0] = 6, a támadás sikeres volt.
+T::08;11;16;17;17;18;06;18;11;11;11;11;18;18;17;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 33;Okos játékos: fields: 26, dices: 199
+A::Okos játékos támadást indított Cic Imre ellen;F2->F3;a támadó dobásai: [0, 0, 6, 3, 0, 4, 0, 6] = 19, a védő dobásai: [6, 1, 6, 4, 2, 6] = 25, a támadás sikertelen volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;18;06;06;18;17;18;04;18;18;18;03;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 27;Okos játékos: fields: 26, dices: 199
+A::Okos játékos támadást indított Cic Imre ellen;A3->A2;a támadó dobásai: [0, 6, 2, 2, 5, 1, 0, 6] = 22, a védő dobásai: [2, 6, 4, 2, 1, 6] = 21, a támadás sikeres volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;18;06;06;18;11;18;04;18;18;18;16;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 24;Okos játékos: fields: 26, dices: 199
+A::Okos játékos támadást indított Cic Imre ellen;B4->B5;a támadó dobásai: [6, 3, 6, 4, 1, 1, 0] = 21, a védő dobásai: [6, 3, 2] = 11, a támadás sikeres volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;18;06;06;18;11;11;04;18;18;18;16;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 24;Okos játékos: fields: 26, dices: 192
+A::Okos játékos támadást indított Cic Imre ellen;C4->D4;a támadó dobásai: [3, 1, 5, 0, 6, 6, 0, 0] = 21, a védő dobásai: [6, 4, 5, 6] = 21, a támadás sikertelen volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;18;06;06;18;11;11;04;18;11;18;16;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 24;Okos játékos: fields: 26, dices: 185
+A::Okos játékos támadást indított Cic Imre ellen;F4->F3;a támadó dobásai: [1, 6, 5, 5, 1, 1, 0, 1] = 20, a védő dobásai: [2, 2, 5, 4, 6, 3] = 22, a támadás sikertelen volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;18;06;06;18;11;11;17;18;11;18;16;18;11;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 20;Okos játékos: fields: 26, dices: 185
+A::Okos játékos támadást indított Cic Imre ellen;D5->D4;a támadó dobásai: [4, 5, 4, 1, 6, 6, 2, 5] = 33, a védő dobásai: [2, 5, 2, 6] = 15, a támadás sikeres volt.
+T::08;11;16;17;17;18;17;18;11;11;11;11;11;18;17;11;17;06;18;11;11;17;18;11;18;16;18;11;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 10, dices: 14;Okos játékos: fields: 26, dices: 185
+A::Okos játékos támadást indított Cic Imre ellen;D3->E3;a támadó dobásai: [2, 0, 3, 1, 3, 6, 6, 3] = 24, a védő dobásai: [1, 1, 3, 6, 6, 3] = 20, a támadás sikeres volt.
+R::2,Cic Imre
+S::Cic Imre: fields: 10, dices: 14;Okos játékos: fields: 34, dices: 269
+R::2,Okos játékos
+T::17;11;18;18;18;18;18;18;18;15;18;18;18;18;18;18;18;06;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 2, dices: 6;Okos játékos: fields: 34, dices: 269
+A::Okos játékos támadást indított Cic Imre ellen;B1->A1;a támadó dobásai: [1, 1, 2, 1, 6, 5, 6, 5] = 27, a védő dobásai: [0, 3, 2, 5, 0, 3, 1, 0] = 14, a támadás sikeres volt.
+T::17;11;18;18;18;18;18;18;18;15;18;11;18;18;18;18;18;06;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 2, dices: 6;Okos játékos: fields: 34, dices: 262
+A::Okos játékos támadást indított Cic Imre ellen;F2->F3;a támadó dobásai: [2, 1, 0, 4, 6, 2, 3, 3] = 21, a védő dobásai: [5, 3, 4, 4, 6, 2] = 24, a támadás sikertelen volt.
+T::17;11;18;18;18;18;18;18;18;15;18;11;18;18;18;18;18;06;18;18;18;18;18;11;18;18;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 2, dices: 6;Okos játékos: fields: 34, dices: 255
+A::Okos játékos támadást indított Cic Imre ellen;F4->F3;a támadó dobásai: [0, 1, 1, 6, 3, 2, 2, 0] = 15, a védő dobásai: [2, 5, 6, 3, 0, 3] = 19, a támadás sikertelen volt.
+T::17;11;18;18;18;18;18;18;18;15;18;11;18;18;18;18;11;17;18;18;18;18;18;11;18;18;18;18;18;18;18;18;18;18;18;18
+S::Cic Imre: fields: 2, dices: 0;Okos játékos: fields: 34, dices: 255
+A::Okos játékos támadást indított Cic Imre ellen;E3->F3;a támadó dobásai: [5, 1, 5, 0, 2, 0, 1, 1] = 15, a védő dobásai: [0, 2, 2, 0, 4, 5] = 13, a támadás sikeres volt.
+R::3,Cic Imre
+S::Cic Imre: fields: 2, dices: 0;Okos játékos: fields: 36, dices: 271
+R::3,Okos játékos
+A győztes: Okos játékos
